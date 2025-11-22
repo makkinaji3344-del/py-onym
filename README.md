@@ -12,7 +12,7 @@ Make sure to add drivers to ```$PATH```.
 ## Command line options ##
 ```
 ./tellonym.py -h
-usage: tellonym.py [-h] [-i INPUT_FILE] [-t TIMES] [-r RETRIES] [-T TIMEOUT] [-R RATE] user
+usage: tellonym.py [-h] [fatemah74] [-t TIMES] [-r RETRIES] [-T TIMEOUT] [-R RATE] user
 
 Py-onym: Tellonym message spammer.
 
